@@ -1,0 +1,9 @@
+:root {
+  --ck-z-default: 10555 !important;
+  --ck-z-modal: calc(var(--ck-z-default) + 10555) !important;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
